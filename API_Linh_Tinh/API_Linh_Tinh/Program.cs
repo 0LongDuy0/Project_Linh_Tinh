@@ -20,7 +20,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-U_Config.DB_Project_Linh_Tinh_Conn_String = builder.Configuration.GetValue<string>("DB_Project_Linh_Tinh_Conn_String");
+U_Config.DB_Project_Linh_Tinh_Conn_String = builder.Configuration.GetConnectionString("DB_Project_Linh_Tinh_Conn_String");
 
 app.UseHttpsRedirection();
 

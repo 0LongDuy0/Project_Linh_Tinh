@@ -150,6 +150,11 @@
       "Controller/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DataLayer": "1.0.0",
+          "Entity": "1.0.0",
+          "Utility": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Controller.dll": {}
         },
@@ -174,6 +179,9 @@
       "Entity/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Utility": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Entity.dll": {}
         },

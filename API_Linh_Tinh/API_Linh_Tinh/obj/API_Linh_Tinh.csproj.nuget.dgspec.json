@@ -106,7 +106,17 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Project_Linh_Tinh\\API_Linh_Tinh\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "E:\\Project_Linh_Tinh\\API_Linh_Tinh\\DataLayer\\DataLayer.csproj"
+              },
+              "E:\\Project_Linh_Tinh\\API_Linh_Tinh\\Entity\\Entity.csproj": {
+                "projectPath": "E:\\Project_Linh_Tinh\\API_Linh_Tinh\\Entity\\Entity.csproj"
+              },
+              "E:\\Project_Linh_Tinh\\API_Linh_Tinh\\Utility\\Utility.csproj": {
+                "projectPath": "E:\\Project_Linh_Tinh\\API_Linh_Tinh\\Utility\\Utility.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -234,7 +244,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Project_Linh_Tinh\\API_Linh_Tinh\\Utility\\Utility.csproj": {
+                "projectPath": "E:\\Project_Linh_Tinh\\API_Linh_Tinh\\Utility\\Utility.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -10,3 +10,6 @@ E:\Project_Linh_Tinh\API_Linh_Tinh\Entity\obj\Debug\net6.0\Entity.dll
 E:\Project_Linh_Tinh\API_Linh_Tinh\Entity\obj\Debug\net6.0\refint\Entity.dll
 E:\Project_Linh_Tinh\API_Linh_Tinh\Entity\obj\Debug\net6.0\Entity.pdb
 E:\Project_Linh_Tinh\API_Linh_Tinh\Entity\obj\Debug\net6.0\ref\Entity.dll
+E:\Project_Linh_Tinh\API_Linh_Tinh\Entity\bin\Debug\net6.0\Utility.dll
+E:\Project_Linh_Tinh\API_Linh_Tinh\Entity\bin\Debug\net6.0\Utility.pdb
+E:\Project_Linh_Tinh\API_Linh_Tinh\Entity\obj\Debug\net6.0\Entity.csproj.CopyComplete

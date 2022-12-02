@@ -1,0 +1,42 @@
+﻿@using Entity.Sys.Tai_Khoan;
+<div class="container text-center">
+    <div class="row">
+        <div class="col">
+            Column
+        </div>
+        <div class="col">
+            Column
+        </div>
+        <div class="col">
+            Column
+        </div>
+    </div>
+</div>
+
+<div class="container text-center">
+    <div class="row">
+        <div class="col">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Auto ID</th>
+                        <th>Tên Người Dùng</th>
+                        <th>Mật Khẩu</th>
+                        <th>Email</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (E_Sys_Tai_Khoan v_objItem in v_arrData)
+                    {
+                        <tr>
+                            <td>@v_objItem.Auto_ID</td>
+                            <td>@v_objItem.Ten_Nguoi_Dung</td>
+                            <td>@v_objItem.Mat_Khau</td>
+                            <td>@v_objItem.Email</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

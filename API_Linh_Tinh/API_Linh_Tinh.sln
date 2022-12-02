@@ -5,13 +5,13 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API_Linh_Tinh", "API_Linh_Tinh\API_Linh_Tinh.csproj", "{C305B2B2-9750-454F-9A90-A2444FED7392}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller", "Controller\Controller.csproj", "{6883AEA8-31C0-4EC6-BA84-6BA33706C45D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Controller", "Controller\Controller.csproj", "{6883AEA8-31C0-4EC6-BA84-6BA33706C45D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{3211E510-8846-43BB-8FA9-5EE7D48C306E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLayer", "DataLayer\DataLayer.csproj", "{3211E510-8846-43BB-8FA9-5EE7D48C306E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{63CE3E54-4994-4184-BCA1-5A884C7A595E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entity", "Entity\Entity.csproj", "{63CE3E54-4994-4184-BCA1-5A884C7A595E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{74085DA1-BA69-4154-AA83-0DC51AFFC882}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utility", "Utility\Utility.csproj", "{74085DA1-BA69-4154-AA83-0DC51AFFC882}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
