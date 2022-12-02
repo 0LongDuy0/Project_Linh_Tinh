@@ -1,0 +1,15 @@
+E:\Project_Linh_Tinh\API_Linh_Tinh\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+E:\Project_Linh_Tinh\API_Linh_Tinh\DataLayer\bin\Debug\net6.0\DataLayer.dll
+E:\Project_Linh_Tinh\API_Linh_Tinh\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+E:\Project_Linh_Tinh\API_Linh_Tinh\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+E:\Project_Linh_Tinh\API_Linh_Tinh\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project_Linh_Tinh\API_Linh_Tinh\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+E:\Project_Linh_Tinh\API_Linh_Tinh\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+E:\Project_Linh_Tinh\API_Linh_Tinh\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+E:\Project_Linh_Tinh\API_Linh_Tinh\DataLayer\obj\Debug\net6.0\DataLayer.dll
+E:\Project_Linh_Tinh\API_Linh_Tinh\DataLayer\obj\Debug\net6.0\refint\DataLayer.dll
+E:\Project_Linh_Tinh\API_Linh_Tinh\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+E:\Project_Linh_Tinh\API_Linh_Tinh\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll
+E:\Project_Linh_Tinh\API_Linh_Tinh\DataLayer\bin\Debug\net6.0\Utility.dll
+E:\Project_Linh_Tinh\API_Linh_Tinh\DataLayer\bin\Debug\net6.0\Utility.pdb
+E:\Project_Linh_Tinh\API_Linh_Tinh\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CopyComplete

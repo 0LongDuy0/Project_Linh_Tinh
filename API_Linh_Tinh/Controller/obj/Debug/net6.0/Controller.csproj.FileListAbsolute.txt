@@ -1,0 +1,12 @@
+E:\Project_Linh_Tinh\API_Linh_Tinh\Controller\bin\Debug\net6.0\Controller.deps.json
+E:\Project_Linh_Tinh\API_Linh_Tinh\Controller\bin\Debug\net6.0\Controller.dll
+E:\Project_Linh_Tinh\API_Linh_Tinh\Controller\bin\Debug\net6.0\Controller.pdb
+E:\Project_Linh_Tinh\API_Linh_Tinh\Controller\obj\Debug\net6.0\Controller.csproj.AssemblyReference.cache
+E:\Project_Linh_Tinh\API_Linh_Tinh\Controller\obj\Debug\net6.0\Controller.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project_Linh_Tinh\API_Linh_Tinh\Controller\obj\Debug\net6.0\Controller.AssemblyInfoInputs.cache
+E:\Project_Linh_Tinh\API_Linh_Tinh\Controller\obj\Debug\net6.0\Controller.AssemblyInfo.cs
+E:\Project_Linh_Tinh\API_Linh_Tinh\Controller\obj\Debug\net6.0\Controller.csproj.CoreCompileInputs.cache
+E:\Project_Linh_Tinh\API_Linh_Tinh\Controller\obj\Debug\net6.0\Controller.dll
+E:\Project_Linh_Tinh\API_Linh_Tinh\Controller\obj\Debug\net6.0\refint\Controller.dll
+E:\Project_Linh_Tinh\API_Linh_Tinh\Controller\obj\Debug\net6.0\Controller.pdb
+E:\Project_Linh_Tinh\API_Linh_Tinh\Controller\obj\Debug\net6.0\ref\Controller.dll
